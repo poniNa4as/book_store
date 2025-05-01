@@ -1,0 +1,2 @@
+C:/flutter_study/book_store/android/app/.cxx/RelWithDebInfo/2gds1y6x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/flutter_study/book_store/android/app/.cxx/RelWithDebInfo/2gds1y6x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
