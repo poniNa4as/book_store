@@ -1,6 +1,6 @@
 ## 🚀 Installation (APK)
 
-Download the `app-release.apk` from the [release page](./build/app/outputs/flutter-apk/app-release.apk) and install it on your Android device.
+Download the `app-release.apk` from the [release page](https://github.com/poniNa4as/book_store/releases/download/v1.0.0/app-release.apk) and install it on your Android device.
 
 ## 🛠️ Technologies
 - Flutter + Dart
