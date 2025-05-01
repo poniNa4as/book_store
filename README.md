@@ -1,16 +1,40 @@
-# book_store
+## 🚀 Installation (APK)
 
-A new Flutter project.
+Download the `app-release.apk` from the [release page](./build/app/outputs/flutter-apk/app-release.apk) and install it on your Android device.
 
-## Getting Started
+## 🛠️ Technologies
+- Flutter + Dart
+- Firebase
+- Dio
+- Provider(riverpod)
 
-This project is a starting point for a Flutter application.
+## 📱 Demo
 
-A few resources to get you started if this is your first Flutter project:
+You can try the app by downloading the APK from the releases section and installing it on an Android device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧑‍💻 Development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the project locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/poniNa4as/book_store.git
+    ```
+
+2. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+
+3. Run the app:
+    ```bash
+    flutter run
+    ```
+
+## 🤝 Contributing
+
+Feel free to fork the repository and submit pull requests. Contributions are always welcome!
+
+---
+
+If you have any questions, feel free to open an issue or contact me.
